@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Bekmurod Abuduxamidov</string>
+    <string name="yellow_star">Yellow star view</string>
+    <string name="scroll_text">Bekmurod Abdukhamidov Team Lead |
+        \n Go developer at JSCB Hamkorbank Tashkent, Tashkent, Uzbekistan
+        \n 355 followers 357 connections
+        \n JSCB Hamkorbank JSCB Hamkorbank Università
+        \n CaFoscari Venezia Università Ca\'Foscari Venezia
+        \n About I am a developer and a creator,
+        \n I love solving complex real world problems with the help of human intelligence and cooperation</string>
+    <string name="nick_name" />
+    <string name="nickname_hint">Enter your nickname...</string>
+    <string name="done">Done</string>
+    <string name="nickname_text" />
+</resources>
